@@ -1,0 +1,1 @@
+web: voila —-port=$PORT —-no-browser WEM_gen_and_price.ipynb
